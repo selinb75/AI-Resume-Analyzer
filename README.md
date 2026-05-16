@@ -83,6 +83,3 @@ gibi gerçek dünya problemlerine yönelik çözümler geliştirilmesi amaçlanm
 
 ---
 
-# Geliştirici
-
-Melis
