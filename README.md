@@ -75,3 +75,7 @@ gibi gerçek dünya problemlerine yönelik çözümler geliştirilmesi amaçlanm
 
 ---
 
+
+https://github.com/user-attachments/assets/8b7b0d02-af42-42e6-ba38-fbe5f60bd65a
+
+
